@@ -10,9 +10,6 @@ end
 end
 
 def consolidate_cart(cart)
-  
-end
-
   index = 0
   new_cart = []
   
@@ -35,4 +32,3 @@ end
   new_cart
 end
 
-  
